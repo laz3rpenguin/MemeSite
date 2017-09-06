@@ -1,2 +1,2 @@
 # MemeSite
-Landing page for auroracommunity.fun
+Landing page for fidgetspinner.ml
